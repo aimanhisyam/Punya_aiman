@@ -1,0 +1,4 @@
+from bs4 import BeautifulSoup4
+import pymongo, requests
+
+print("Hello bs4, pymongo & requests")
