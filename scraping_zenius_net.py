@@ -26,3 +26,5 @@ for i in range(len(titles)):
 	print('description : ',descs[i])
 	print('link : ',links[i])
 	print('\n\n')
+
+print("oke")
